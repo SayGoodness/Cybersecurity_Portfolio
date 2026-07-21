@@ -43,19 +43,24 @@ Build a small, secure enterprise network in Cisco Packet Tracer for three depart
 - Tested ACL enforcement: Admin → Sales ping failed as expected
 
 ## Screenshots
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/30c98a30-f966-4b74-a286-b9d27b946e68" />
 
 *Fig 1: VLAN configuration on the switch*
 
-<img width="600" src="PASTE_URL_HERE" />
+
+<img width="600" src="https://github.com/user-attachments/assets/243f099b-8fd0-4ac8-aeec-feadb02e54e2" />
 
 *Fig 2: Router sub-interface configuration (Router-on-a-Stick)*
 
-<img width="600" src="PASTE_URL_HERE" />
+
+<img width="600" src="https://github.com/user-attachments/assets/09c321ba-1c04-4af7-bbb6-6092dc809b4b" />
+<img width="600" src="https://github.com/user-attachments/assets/a809a712-441e-4622-bb0d-9e679a71448b" />
 
 *Fig 3: ACL configuration and verification*
 
-<img width="600" src="PASTE_URL_HERE" />
+
+<img width="600" src="https://github.com/user-attachments/assets/cd7d01fb-9b27-4958-af0d-9f957e3bd91b" />
+<img width="600" src="https://github.com/user-attachments/assets/74e58bfa-2ac0-4592-a85f-50dd3f3dd218" />
 
 *Fig 4: SSH connection test confirming secure access*
 
