@@ -1,36 +1,25 @@
-Welcome to my portfolio. This repository showcases hands-on labs and projects focused on cybersecurity, cloud defense, and system security.
+# Cybersecurity Portfolio
 
-Projects
-1. AWS Cloud Security & Forensic Investigation
+Hands-on labs and projects in cybersecurity, cloud defense, digital forensics, and system security.
 
--Designed a real-time monitoring system for sensitive database credentials using AWS Secrets Manager.
+## Projects
+- [AWS Cloud Security & Forensic Investigation](./aws-cloud-security-forensics/)
+- [AgentTesla Malware Forensics — Full Incident Investigation](./agenttesla-malware-forensics/)
+- [Active Directory Penetration Testing Lab](./active-directory-pentest-lab/)
+- [Wazuh SIEM & Endpoint Monitoring](./wazuh-siem-monitoring/)
+- [Network Segmentation Lab (Cisco Packet Tracer)](./network-segmentation-lab/)
+- [Sophos XG Firewall Configuration](./sophos-firewall-config/)
+- [Secure Security Architecture — PayLink Africa (Fintech)](./secure-security-architecture/)
+- [Continuous Compliance & Change Management](./continuous-compliance-change-mgmt/)
 
--Implemented automated incident response by triggering a "Kill-Switch" via EventBridge.
-
--Analyzed CloudTrail logs to identify and remediate unauthorized access events.
-
-2. Network Segmentation Lab (Cisco Packet Tracer)
-
--Designed a secure multi-departmental network (Admin, Sales, IT) using VLAN segmentation.
-
--Configured inter-VLAN routing (Router-on-a-Stick) and secured management access via SSH.
-
--Applied Extended Access Control Lists (ACLs) to enforce the Principle of Least Privilege.
-
-3. Wazuh SIEM & Endpoint Monitoring
-
--Deployed a centralized Wazuh SIEM in a virtualized VMware environment.
-
--Configured File Integrity Monitoring (FIM) to detect unauthorized system tampering.
-
--Generated and analyzed security alerts mapped to PCI-DSS and GDPR compliance frameworks.
-
-Skills Demonstrated
-
--Cloud Security (AWS) & Forensic Investigation
-
--Network Segmentation & Access Control
-
--SIEM Monitoring & Threat Detection
-
--Compliance Mapping (GDPR/PCI-DSS)
+## Skills Demonstrated
+- Cloud Security (AWS) & Automated Incident Response
+- Digital Forensics & Incident Response (email, malware, and network-level analysis)
+- Malware Analysis & Threat Intelligence (VirusTotal, AbuseIPDB)
+- Network Traffic Forensics (Wireshark, PCAP analysis)
+- Active Directory Security & Penetration Testing
+- SIEM Monitoring & Threat Detection (Wazuh)
+- Network Segmentation & Access Control
+- Firewall Configuration & Policy Enforcement (Sophos XG)
+- Secure Architecture Design (NIST, PCI-DSS, ISO/IEC 27001, OWASP Top 10)
+- Compliance Mapping (GDPR/PCI-DSS)
