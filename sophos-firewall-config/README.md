@@ -30,35 +30,37 @@ Configure Sophos XG Firewall in a VMware virtual lab and implement three securit
 - Attempted to visit blocked sites: a gambling site and Facebook both returned blocked, confirming the web filtering policy worked as intended
 
 ## Screenshots
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/6933683a-ae64-4145-85d6-38bc46487823" />
 
 *Fig 1: Network topology*
 
-<img width="600" src="PASTE_URL_HERE" />
+
+<img width="600" src="https://github.com/user-attachments/assets/5b449371-6d45-4454-a68f-b4f6ee55ac1f" />
 
 *Fig 2: LAN interface (Port1) configuration*
 
-<img width="600" src="PASTE_URL_HERE" />
+
+<img width="600" src="https://github.com/user-attachments/assets/ebde21a9-22a0-4668-88a4-7c17acd11bab" />
 
 *Fig 3: WAN interface (Port2) configuration*
 
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/34662df8-7c1d-4341-b3c1-93be758f1a2c" />
 
 *Fig 4: Allow_LAN_to_Internet fallback rule*
 
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/a3b318e9-413f-4bb9-9b05-cba864aa50a4" />
 
 *Fig 5: Web policy blocking social media, gambling, and adult content*
 
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/4ba300ec-331d-4db6-880a-ddd88771ee10" />
 
 *Fig 6: Firewall rule enforcing Policy 2*
 
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/30d4001e-599b-41dd-913f-c52fa3dfc7f6" />
 
 *Fig 7: Firewall rule enforcing Policy 3 (P2P blocking)*
 
-<img width="600" src="PASTE_URL_HERE" />
+<img width="600" src="https://github.com/user-attachments/assets/33e5f73e-eedd-4ca6-b513-09576fd25741" />
 
 *Fig 8: Full rule list showing correct priority order*
 
